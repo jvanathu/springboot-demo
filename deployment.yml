@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: harness11
-        image: docker.io/vivek756/harness:latest
+        image: vasanthagokul/springboot-app:latest
         ports:
         - containerPort: 8080
