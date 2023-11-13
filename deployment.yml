@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: harness11
-        image: vasanthagokul/springboot-app:latest
+        image: vanathu/springboot-demo:latest
         ports:
         - containerPort: 8080
